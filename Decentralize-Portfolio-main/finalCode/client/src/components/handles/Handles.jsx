@@ -11,7 +11,7 @@ const Handles = () => {
       <a href="https://www.linkedin.com/in/manavrai/" target='_blank' rel="noopener noreferrer"><AiFillLinkedin className='icon' /></a>
       <a href="https://instagram.com/manav_rai1234?igshid=OGQ5ZDc2ODk2ZA==" target='_blank' rel="noopener noreferrer"><FaInstagram className='icon' /></a>
 
-      <a href="https://github.com/coderiders22/PEC-PROJECTS" target='_blank' rel="noopener noreferrer"><FaGithubSquare className='icon' />
+      <a href="https://github.com/coderiders22/" target='_blank' rel="noopener noreferrer"><FaGithubSquare className='icon' />
       </a>
 
 
