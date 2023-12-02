@@ -32,7 +32,7 @@ contract Portfolio{
 
   string public imageLink="QmUAXJ8QNDsrf9v6r8AmwfJ5GwcmjFivuDdJh5ubtWB51u";
   string public description="Hi, I'm Manav Rai a Second Year Student at Punjab Engineering College, Chandigarh. I am a great learner and Blockchain Enthusiast I am always keen to learn new things in programming. ";
-  string public resumeLink="QmYTTMhP2fiPYzqyUyrgTXdu9BN4Kc2DxkbNL4YLEUwmgo";
+  string public resumeLink="QmbXipLXx3w8oka96BTDvSEvav6PpcDySHY9Ubn5Ypdc77";
   uint projectCount;
   uint educationCount;
   uint experienceCount;
